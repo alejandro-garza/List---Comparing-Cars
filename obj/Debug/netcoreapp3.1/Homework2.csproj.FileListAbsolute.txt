@@ -1,0 +1,51 @@
+/Users/Testing/Desktop/Coding/git/Training/Week-2/Homework2/Homework2/obj/Debug/netcoreapp3.1/Homework2.csproj.AssemblyReference.cache
+/Users/Testing/Desktop/Coding/git/Training/Week-2/Homework2/Homework2/obj/Debug/netcoreapp3.1/Homework2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Testing/Desktop/Coding/git/Training/Week-2/Homework2/Homework2/obj/Debug/netcoreapp3.1/Homework2.AssemblyInfoInputs.cache
+/Users/Testing/Desktop/Coding/git/Training/Week-2/Homework2/Homework2/obj/Debug/netcoreapp3.1/Homework2.AssemblyInfo.cs
+/Users/Testing/Desktop/Coding/git/Training/Week-2/Homework2/Homework2/obj/Debug/netcoreapp3.1/Homework2.csproj.CoreCompileInputs.cache
+/Users/Testing/Desktop/ Nansen Training/BE Training/Coding/git/Training/Week-2/Homework2/Homework2/obj/Debug/netcoreapp3.1/Homework2.csproj.AssemblyReference.cache
+/Users/Testing/Desktop/ Nansen Training/BE Training/Coding/git/Training/Week-2/Homework2/Homework2/obj/Debug/netcoreapp3.1/Homework2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Testing/Desktop/ Nansen Training/BE Training/Coding/git/Training/Week-2/Homework2/Homework2/obj/Debug/netcoreapp3.1/Homework2.AssemblyInfoInputs.cache
+/Users/Testing/Desktop/ Nansen Training/BE Training/Coding/git/Training/Week-2/Homework2/Homework2/obj/Debug/netcoreapp3.1/Homework2.AssemblyInfo.cs
+/Users/Testing/Desktop/ Nansen Training/BE Training/Coding/git/Training/Week-2/Homework2/Homework2/obj/Debug/netcoreapp3.1/Homework2.csproj.CoreCompileInputs.cache
+/Users/Testing/Desktop/ Nansen Training/BE Training/Coding/git/Training/Week-2/Homework2/Homework2/bin/Debug/netcoreapp3.1/Homework2.deps.json
+/Users/Testing/Desktop/ Nansen Training/BE Training/Coding/git/Training/Week-2/Homework2/Homework2/bin/Debug/netcoreapp3.1/Homework2.runtimeconfig.json
+/Users/Testing/Desktop/ Nansen Training/BE Training/Coding/git/Training/Week-2/Homework2/Homework2/bin/Debug/netcoreapp3.1/Homework2.runtimeconfig.dev.json
+/Users/Testing/Desktop/ Nansen Training/BE Training/Coding/git/Training/Week-2/Homework2/Homework2/bin/Debug/netcoreapp3.1/Homework2.dll
+/Users/Testing/Desktop/ Nansen Training/BE Training/Coding/git/Training/Week-2/Homework2/Homework2/bin/Debug/netcoreapp3.1/Homework2.pdb
+/Users/Testing/Desktop/ Nansen Training/BE Training/Coding/git/Training/Week-2/Homework2/Homework2/obj/Debug/netcoreapp3.1/Homework2.dll
+/Users/Testing/Desktop/ Nansen Training/BE Training/Coding/git/Training/Week-2/Homework2/Homework2/obj/Debug/netcoreapp3.1/Homework2.pdb
+/Users/Testing/Desktop/ Nansen Training/BE Training/Coding/git/Training/Week-2/Homework2/Homework2/obj/Debug/netcoreapp3.1/Homework2.genruntimeconfig.cache
+/Users/Testing/Downloads/BETraining/Training/Car Vehicle/obj/Debug/netcoreapp3.1/Homework2.csproj.AssemblyReference.cache
+/Users/Testing/Downloads/BETraining/Training/Car Vehicle/obj/Debug/netcoreapp3.1/Homework2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Testing/Downloads/BETraining/Training/Car Vehicle/obj/Debug/netcoreapp3.1/Homework2.AssemblyInfoInputs.cache
+/Users/Testing/Downloads/BETraining/Training/Car Vehicle/obj/Debug/netcoreapp3.1/Homework2.AssemblyInfo.cs
+/Users/Testing/Downloads/BETraining/Training/Car Vehicle/obj/Debug/netcoreapp3.1/Homework2.csproj.CoreCompileInputs.cache
+/Users/Testing/Downloads/BETraining/Training/Car Vehicle/obj/Debug/netcoreapp3.1/Homework2.dll
+/Users/Testing/Downloads/BETraining/Training/Car Vehicle/obj/Debug/netcoreapp3.1/Homework2.pdb
+/Users/Testing/Downloads/BETraining/Training/Homework2/obj/Debug/netcoreapp3.1/Homework2.csproj.AssemblyReference.cache
+/Users/Testing/Downloads/BETraining/Training/Homework2/obj/Debug/netcoreapp3.1/Homework2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Testing/Downloads/BETraining/Training/Homework2/obj/Debug/netcoreapp3.1/Homework2.AssemblyInfoInputs.cache
+/Users/Testing/Downloads/BETraining/Training/Homework2/obj/Debug/netcoreapp3.1/Homework2.AssemblyInfo.cs
+/Users/Testing/Downloads/BETraining/Training/Homework2/obj/Debug/netcoreapp3.1/Homework2.csproj.CoreCompileInputs.cache
+/Users/Testing/Downloads/BETraining/Training/Homework2/obj/Debug/netcoreapp3.1/Homework2.dll
+/Users/Testing/Downloads/BETraining/Training/Homework2/obj/Debug/netcoreapp3.1/Homework2.pdb
+/Users/Testing/Downloads/BETraining/Training/Homework2/bin/Debug/netcoreapp3.1/Homework2.deps.json
+/Users/Testing/Downloads/BETraining/Training/Homework2/bin/Debug/netcoreapp3.1/Homework2.runtimeconfig.json
+/Users/Testing/Downloads/BETraining/Training/Homework2/bin/Debug/netcoreapp3.1/Homework2.runtimeconfig.dev.json
+/Users/Testing/Downloads/BETraining/Training/Homework2/bin/Debug/netcoreapp3.1/Homework2.dll
+/Users/Testing/Downloads/BETraining/Training/Homework2/bin/Debug/netcoreapp3.1/Homework2.pdb
+/Users/Testing/Downloads/BETraining/Training/Homework2/obj/Debug/netcoreapp3.1/Homework2.genruntimeconfig.cache
+/Users/Testing/Downloads/ Nansen/BETraining/Training/Week 7-Polymorphism/obj/Debug/netcoreapp3.1/Homework2.csproj.AssemblyReference.cache
+/Users/Testing/Downloads/ Nansen/BETraining/Training/Week 7-Polymorphism/obj/Debug/netcoreapp3.1/Homework2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Testing/Downloads/ Nansen/BETraining/Training/Week 7-Polymorphism/obj/Debug/netcoreapp3.1/Homework2.AssemblyInfoInputs.cache
+/Users/Testing/Downloads/ Nansen/BETraining/Training/Week 7-Polymorphism/obj/Debug/netcoreapp3.1/Homework2.AssemblyInfo.cs
+/Users/Testing/Downloads/ Nansen/BETraining/Training/Week 7-Polymorphism/obj/Debug/netcoreapp3.1/Homework2.csproj.CoreCompileInputs.cache
+/Users/Testing/Downloads/ Nansen/BETraining/Training/Week 7-Polymorphism/obj/Debug/netcoreapp3.1/Homework2.dll
+/Users/Testing/Downloads/ Nansen/BETraining/Training/Week 7-Polymorphism/obj/Debug/netcoreapp3.1/Homework2.pdb
+/Users/Testing/Downloads/ Nansen/BETraining/Training/Week 7-Polymorphism/bin/Debug/netcoreapp3.1/Homework2.deps.json
+/Users/Testing/Downloads/ Nansen/BETraining/Training/Week 7-Polymorphism/bin/Debug/netcoreapp3.1/Homework2.runtimeconfig.json
+/Users/Testing/Downloads/ Nansen/BETraining/Training/Week 7-Polymorphism/bin/Debug/netcoreapp3.1/Homework2.runtimeconfig.dev.json
+/Users/Testing/Downloads/ Nansen/BETraining/Training/Week 7-Polymorphism/bin/Debug/netcoreapp3.1/Homework2.dll
+/Users/Testing/Downloads/ Nansen/BETraining/Training/Week 7-Polymorphism/bin/Debug/netcoreapp3.1/Homework2.pdb
+/Users/Testing/Downloads/ Nansen/BETraining/Training/Week 7-Polymorphism/obj/Debug/netcoreapp3.1/Homework2.genruntimeconfig.cache

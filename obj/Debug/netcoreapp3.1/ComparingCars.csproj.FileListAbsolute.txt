@@ -1,0 +1,26 @@
+/Users/Testing/Downloads/ Nansen/BETraining/Training/Week 7-Polymorphism/bin/Debug/netcoreapp3.1/ComparingCars.deps.json
+/Users/Testing/Downloads/ Nansen/BETraining/Training/Week 7-Polymorphism/bin/Debug/netcoreapp3.1/ComparingCars.runtimeconfig.json
+/Users/Testing/Downloads/ Nansen/BETraining/Training/Week 7-Polymorphism/bin/Debug/netcoreapp3.1/ComparingCars.runtimeconfig.dev.json
+/Users/Testing/Downloads/ Nansen/BETraining/Training/Week 7-Polymorphism/bin/Debug/netcoreapp3.1/ComparingCars.dll
+/Users/Testing/Downloads/ Nansen/BETraining/Training/Week 7-Polymorphism/bin/Debug/netcoreapp3.1/ComparingCars.pdb
+/Users/Testing/Downloads/ Nansen/BETraining/Training/Week 7-Polymorphism/obj/Debug/netcoreapp3.1/ComparingCars.csproj.AssemblyReference.cache
+/Users/Testing/Downloads/ Nansen/BETraining/Training/Week 7-Polymorphism/obj/Debug/netcoreapp3.1/ComparingCars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Testing/Downloads/ Nansen/BETraining/Training/Week 7-Polymorphism/obj/Debug/netcoreapp3.1/ComparingCars.AssemblyInfoInputs.cache
+/Users/Testing/Downloads/ Nansen/BETraining/Training/Week 7-Polymorphism/obj/Debug/netcoreapp3.1/ComparingCars.AssemblyInfo.cs
+/Users/Testing/Downloads/ Nansen/BETraining/Training/Week 7-Polymorphism/obj/Debug/netcoreapp3.1/ComparingCars.csproj.CoreCompileInputs.cache
+/Users/Testing/Downloads/ Nansen/BETraining/Training/Week 7-Polymorphism/obj/Debug/netcoreapp3.1/ComparingCars.dll
+/Users/Testing/Downloads/ Nansen/BETraining/Training/Week 7-Polymorphism/obj/Debug/netcoreapp3.1/ComparingCars.pdb
+/Users/Testing/Downloads/ Nansen/BETraining/Training/Week 7-Polymorphism/obj/Debug/netcoreapp3.1/ComparingCars.genruntimeconfig.cache
+/Users/Testing/Downloads/ Nansen/BETraining/Training/C# - List - Comparing Cars/bin/Debug/netcoreapp3.1/ComparingCars.deps.json
+/Users/Testing/Downloads/ Nansen/BETraining/Training/C# - List - Comparing Cars/bin/Debug/netcoreapp3.1/ComparingCars.runtimeconfig.json
+/Users/Testing/Downloads/ Nansen/BETraining/Training/C# - List - Comparing Cars/bin/Debug/netcoreapp3.1/ComparingCars.runtimeconfig.dev.json
+/Users/Testing/Downloads/ Nansen/BETraining/Training/C# - List - Comparing Cars/bin/Debug/netcoreapp3.1/ComparingCars.dll
+/Users/Testing/Downloads/ Nansen/BETraining/Training/C# - List - Comparing Cars/bin/Debug/netcoreapp3.1/ComparingCars.pdb
+/Users/Testing/Downloads/ Nansen/BETraining/Training/C# - List - Comparing Cars/obj/Debug/netcoreapp3.1/ComparingCars.csproj.AssemblyReference.cache
+/Users/Testing/Downloads/ Nansen/BETraining/Training/C# - List - Comparing Cars/obj/Debug/netcoreapp3.1/ComparingCars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Testing/Downloads/ Nansen/BETraining/Training/C# - List - Comparing Cars/obj/Debug/netcoreapp3.1/ComparingCars.AssemblyInfoInputs.cache
+/Users/Testing/Downloads/ Nansen/BETraining/Training/C# - List - Comparing Cars/obj/Debug/netcoreapp3.1/ComparingCars.AssemblyInfo.cs
+/Users/Testing/Downloads/ Nansen/BETraining/Training/C# - List - Comparing Cars/obj/Debug/netcoreapp3.1/ComparingCars.csproj.CoreCompileInputs.cache
+/Users/Testing/Downloads/ Nansen/BETraining/Training/C# - List - Comparing Cars/obj/Debug/netcoreapp3.1/ComparingCars.dll
+/Users/Testing/Downloads/ Nansen/BETraining/Training/C# - List - Comparing Cars/obj/Debug/netcoreapp3.1/ComparingCars.pdb
+/Users/Testing/Downloads/ Nansen/BETraining/Training/C# - List - Comparing Cars/obj/Debug/netcoreapp3.1/ComparingCars.genruntimeconfig.cache
